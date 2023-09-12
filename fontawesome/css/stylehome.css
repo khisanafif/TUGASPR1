@@ -8,14 +8,6 @@
 .image-category:hover{
     transform: scale(1,2);
 }
-.row-container{
-   
-    margin: 0px;
-}
-.container{
-   
-    margin: 0px;
-}
 .card:hover{
     border: 2px solid #2D2D2D;
 }
@@ -38,21 +30,11 @@ section{
     opacity: 0;
     transition: opacity 0.3s;
 }
-.section{
-    margin-top: 500rem;
-    background-color: rgba(127, 240, 255, 0.795) ;
-}
+
   
 body {
-    min-height: 500px;
-    background-color: rgba(127, 240, 255, 0.795);
+    min-height: 500px;;
   }
   
-  .card {
-    padding: 0%;
-    background-color: #fff;
-    
-  }
-  .card:border-radius{
-  }
+ 
   
